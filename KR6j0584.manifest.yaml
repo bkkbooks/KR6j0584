@@ -1,0 +1,55 @@
+canonical_identifier: bkk:krp/KR6j0584/v1
+canonical_location: https://kanripo.org/bkk/KR6j0584/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 東方最勝燈王如來經
+  identifiers:
+    alt_id:
+    - T21n1354
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T21/T21n1354.xml
+    old_id: T21n1354
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: 宋
+  label: 宋
+  source_xml_id: wit2
+- short: 元
+  label: 元
+  source_xml_id: wit3
+- short: 聖
+  label: 聖
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0584_000.yaml, hash: 'sha256:3310386685bc04bfc006872d71bbba4bc0d4e570b9d97cab353c51015b4260d0'}
+  - {seq: 1, filename: KR6j0584_001.yaml, hash: 'sha256:620e13536a9fea5a1b1a62e4e1a1eb401810871b9089ce27b78288b54933da6e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0584_000.markers.yaml, hash: 'sha256:81d91fda671daddd8b148304b9a32ca5eac05d43f1b435c44a1a39466421f0a7'}
+  - {seq: 1, role: markers, filename: assets/KR6j0584_001.markers.yaml, hash: 'sha256:267cdada9d7c68a003d801ee733a73871f0b800c6dd37c4cad3bd8178fb4c089'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0584_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 5378
+  label: 東方最勝燈王如來經一卷
+  type: juan
+  level: 1
+hash: sha256:f6cba1dcb822f75ae5ef4a0b5f495e62cfccab406f6cb2135aab80952894559f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
