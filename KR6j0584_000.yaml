@@ -1,8 +1,8 @@
 canonical_identifier: bkk:krp/KR6j0584/t/v1/juan/0
 seq: 0
 front:
-  text: 我闍那崛多歸命大智海毗盧遮那佛
-  hash: sha256:78364c58ba0a8d6a02fc8b03bfdb80aedecdb151802bc2e1e0417d34fa6ed8a1
+  text: 我闍那崛多歸命大智海毘盧遮那佛
+  hash: sha256:c1a7757473f5ef3e21f6a8de02aa8f6abd3e3326b4ff004a7187aa2827dbfb4d
 body:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
@@ -14,4 +14,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T21/T21n1354.xml
     old_id: T21n1354
-hash: sha256:3310386685bc04bfc006872d71bbba4bc0d4e570b9d97cab353c51015b4260d0
+hash: sha256:432e72b8edb68047067084b1d9cc190d76290017791c5a647ffe90f049dd9e4b
