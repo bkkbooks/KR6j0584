@@ -38,8 +38,9 @@ markers:
   - {type: variant, offset: 0, length: 15, content: 我闍那崛多　歸命大智海　毘盧遮那佛, 明: ''}
   - {type: indent, offset: 5, content: 　, id: KR6j0584_T_000-bkkind1}
   - {type: indent, offset: 10, content: 　, id: KR6j0584_T_000-bkkind2}
+  - {type: substitution, offset: 10, original: 毘, replacement: 毗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20790}}
   - {type: xml-element, offset: 15, content: '', id: pT21p0868b0401_end, name: p, role: close, attrs: {'xml:id': pT21p0868b0401}}
   - {type: line-break, offset: 15, content: '', id: KR6j0584_T_000-0868b05, ed: T, 'n': 0868b05}
   body: []
   back: []
-hash: sha256:2d522d84e618f03efaadadbedda826fd54abaf78af272453731f01d8fc9d3c9d
+hash: sha256:c3d09a3b46c62c77e08e1d4db2d3855c549615c9a24a12446725ad1f5c7d89d6

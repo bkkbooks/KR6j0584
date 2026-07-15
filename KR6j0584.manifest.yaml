@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0584/v1
 canonical_location: https://kanripo.org/bkk/KR6j0584/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 東方最勝燈王如來經
   identifiers:
@@ -33,11 +33,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0584_000.yaml, hash: 'sha256:432e72b8edb68047067084b1d9cc190d76290017791c5a647ffe90f049dd9e4b'}
-  - {seq: 1, filename: KR6j0584_001.yaml, hash: 'sha256:5fb5c810d7088eb6b1757c8d63015e6b59b72f986d2b2af349663c7f7badfc38'}
+  - {seq: 0, filename: KR6j0584_000.yaml, hash: 'sha256:3310386685bc04bfc006872d71bbba4bc0d4e570b9d97cab353c51015b4260d0'}
+  - {seq: 1, filename: KR6j0584_001.yaml, hash: 'sha256:204a04db443a3ee981a2bd46339ae6e13e45174cca51e3c33a6c141b177f3ea9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0584_000.markers.yaml, hash: 'sha256:2d522d84e618f03efaadadbedda826fd54abaf78af272453731f01d8fc9d3c9d'}
-  - {seq: 1, role: markers, filename: assets/KR6j0584_001.markers.yaml, hash: 'sha256:0a3cff74138eafbdf66efe957b1a342a61d142eaf297e17afadeb576bda00a2f'}
+  - {seq: 0, role: markers, filename: assets/KR6j0584_000.markers.yaml, hash: 'sha256:c3d09a3b46c62c77e08e1d4db2d3855c549615c9a24a12446725ad1f5c7d89d6'}
+  - {seq: 1, role: markers, filename: assets/KR6j0584_001.markers.yaml, hash: 'sha256:c81404b04f3386ed856e12f35df9a813b3a3fdedb98b718e345c29761ce0709c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 東方最勝燈王如來經一卷
   type: juan
   level: 1
-hash: sha256:a3c5d746277a6b1c66baf77a94a6b14f10bbe22a07a064e57ac08236f993fc94
+hash: sha256:5f499eef04ecb58f73f940668edc1328d04df9a46487a3101d7ed9e2a05bbd4f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
