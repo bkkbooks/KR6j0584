@@ -19,10 +19,10 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0584_000-T.yaml, hash: 'sha256:432e72b8edb68047067084b1d9cc190d76290017791c5a647ffe90f049dd9e4b'}
+  - {seq: 0, filename: KR6j0584_000-T.yaml, hash: 'sha256:7ef69edc6cd999b051b50b7ee90c8c9504124b4e3ddda22a7d873f59162dbd3a'}
   - {seq: 1, filename: KR6j0584_001-T.yaml, hash: 'sha256:5fb5c810d7088eb6b1757c8d63015e6b59b72f986d2b2af349663c7f7badfc38'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0584_000-T.markers.yaml, hash: 'sha256:04d98cab9e80dfe402de4514e0ed7b31eb598442c9baf0217322ac59fc301ab7'}
+  - {seq: 0, role: markers, filename: assets/KR6j0584_000-T.markers.yaml, hash: 'sha256:de83a1c1967bb6456f928afae615f0bc7821686649df73cff687269c127604cb'}
   - {seq: 1, role: markers, filename: assets/KR6j0584_001-T.markers.yaml, hash: 'sha256:b1175b2e08b1ff96d16232aceca8b4a83ee06417d1c8a317ad2aabc3085cbcd9'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 東方最勝燈王如來經一卷
   type: juan
   level: 1
-hash: sha256:d6126cacfa3ffc4cac9f6636551552ffdcafec659761f465d03b6b2281e969d2
+hash: sha256:10efe62915aadb446606c54c3f67b7d52bbfd7e5fe16b55134f32fe796374209

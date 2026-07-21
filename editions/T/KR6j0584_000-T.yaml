@@ -1,11 +1,8 @@
 canonical_identifier: bkk:krp/KR6j0584/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 我闍那崛多歸命大智海毘盧遮那佛
   hash: sha256:c1a7757473f5ef3e21f6a8de02aa8f6abd3e3326b4ff004a7187aa2827dbfb4d
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 東方最勝燈王如來經
   edition:
@@ -14,4 +11,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T21/T21n1354.xml
     old_id: T21n1354
-hash: sha256:432e72b8edb68047067084b1d9cc190d76290017791c5a647ffe90f049dd9e4b
+hash: sha256:7ef69edc6cd999b051b50b7ee90c8c9504124b4e3ddda22a7d873f59162dbd3a

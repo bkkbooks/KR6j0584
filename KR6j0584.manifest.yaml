@@ -33,10 +33,10 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6j0584_000.yaml, hash: 'sha256:3310386685bc04bfc006872d71bbba4bc0d4e570b9d97cab353c51015b4260d0'}
+  - {seq: 0, filename: KR6j0584_000.yaml, hash: 'sha256:4ab823dd625be65c90d88ee3242414929b77d03bab92d3b69cfa5f75019bed2b'}
   - {seq: 1, filename: KR6j0584_001.yaml, hash: 'sha256:204a04db443a3ee981a2bd46339ae6e13e45174cca51e3c33a6c141b177f3ea9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0584_000.markers.yaml, hash: 'sha256:c3d09a3b46c62c77e08e1d4db2d3855c549615c9a24a12446725ad1f5c7d89d6'}
+  - {seq: 0, role: markers, filename: assets/KR6j0584_000.markers.yaml, hash: 'sha256:92cd3dc1f354c41df37f2135ddbb4715fe3cdcb3e6ce7d2443e4448cd3010fca'}
   - {seq: 1, role: markers, filename: assets/KR6j0584_001.markers.yaml, hash: 'sha256:c81404b04f3386ed856e12f35df9a813b3a3fdedb98b718e345c29761ce0709c'}
 table_of_contents:
 - ref:
@@ -49,7 +49,7 @@ table_of_contents:
   label: 東方最勝燈王如來經一卷
   type: juan
   level: 1
-hash: sha256:5f499eef04ecb58f73f940668edc1328d04df9a46487a3101d7ed9e2a05bbd4f
+hash: sha256:72a961c1c0e3b65ac0c44f0170fabd9d84e58d4ca6aead06fbd87c407ca115f4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
